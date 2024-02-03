@@ -1,0 +1,86 @@
+body {
+    background-image: linear-gradient(to bottom left, #101D42, #0D1317);
+}
+body, div { 
+    font-family: 'Lexend', sans-serif;
+}
+
+.navbar {
+    height: 75px;
+    width: 100%;
+    margin: -10px;
+    background-color: #101D42;
+}
+
+.navbar h2 {
+    margin-top: 20px;
+    margin-left: 25px;
+    position: fixed;
+    color: #89D2DC;
+}
+
+.navbar h2 a {
+    text-decoration: none;
+}
+
+.navbar h2 a:hover {
+    zoom: 105%;
+    color: #7cbbc4;
+}
+
+.card {
+    margin-top: 50px;
+    margin-right: 25%;
+    margin-left: 30%;
+    padding: 10px;
+}
+
+.card h1 {
+    margin-top: -200px;
+    margin-left: +330px;
+    color: #89D2DC;
+}
+
+.card p {
+    margin-left: +330px;
+    color: #89D2DC;
+}
+
+.aboutme {
+    margin-top: 150px;
+    margin-right: 65%;
+    padding: 10px;
+    color: #89D2DC;
+}
+
+.aboutme p {
+    margin-top: -10px;
+}
+
+.links {
+    margin-top: -125px;
+    padding: 10px;
+    text-align: right;
+    color: #89D2DC;
+}
+
+.links p, a{
+    margin-top: -20px;
+    color: #89D2DC;
+}
+
+.footer {
+    top: 45vh;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+.footer a {
+    color: #89D2DC;
+    text-decoration: none;
+}
+
+#text {
+    color: #89D2DC;
+}
