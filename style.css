@@ -14,7 +14,8 @@ body, div {
 }
 
 .navbar h2 {
-    margin: 0px;
+    margin-top: 25px;
+    margin-left: 30px;
     color: #89D2DC;
 }
 
