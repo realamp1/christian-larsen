@@ -11,13 +11,13 @@ body, div {
     margin: 0%;
     padding: 0%;
     background-color: #101D42;
-    position: fixed;
+    position: relative;
 }
 
 .navbar h2 {
     margin-top: 20px;
     margin-left: 25px;
-    position: fixed;
+    position: relative;
     color: #89D2DC;
 }
 
