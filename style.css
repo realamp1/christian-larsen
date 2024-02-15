@@ -8,6 +8,7 @@ body, div {
 .navbar {
     height: 75px;
     width: 100%;
+    margin-top: -25px;
     margin: -10px;
     background-color: #101D42;
     position: fixed;
