@@ -10,6 +10,7 @@ body, div {
     width: 100%;
     margin: -10px;
     background-color: #101D42;
+    position: fixed;
 }
 
 .navbar h2 {
@@ -71,7 +72,7 @@ body, div {
 }
 
 .footer {
-    top: 45vh;
+    bottom: 10px;
     position: relative;
     width: 100%;
     text-align: center;
