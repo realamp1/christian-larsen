@@ -25,7 +25,7 @@ body, div {
 
 .navbar h2 a:hover {
     zoom: 105%;
-    animation-duration: 5ms;
+    animation-duration: 100ms;
     color: rgba(124, 186, 196, 0.7);
 }
 
