@@ -5,29 +5,27 @@ body, div {
     font-family: 'Lexend', sans-serif;
 }
 
-.navbar {
+nav {
     height: 75px;
     width: 100%;
     margin: 0%;
     padding: 0%;
     background-color: #101D42;
-    position: relative;
+    position: fixed;
     border-radius: 5px;
 }
 
-.navbar h2 {
+nav li {
     margin-top: 25px;
     margin-left: 30px;
-    position: relative;
     color: #89D2DC;
 }
 
-.navbar h2 a {
+nav li a {
     text-decoration: none;
 }
 
-.navbar h2 a:hover {
-    zoom: 105%;
+nav li a:hover {
     animation-duration: 100ms;
     color: rgba(124, 186, 196, 0.7);
 }
