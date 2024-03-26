@@ -7,7 +7,7 @@ body {
   color: rgb(55, 172, 29);
 }
 .card {
-  background-color: burlywood;
+  background-color: darkgray;
   border-radius: 5px;
   border: 0px;
   width: 50%;
@@ -21,7 +21,7 @@ body {
 }
 
 .card2 {
-  background-color: burlywood;
+  background-color: darkgray;
   border-radius: 5px;
   border: 0px;
   width: 50%;
