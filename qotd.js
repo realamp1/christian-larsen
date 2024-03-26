@@ -24,4 +24,4 @@ function qotd() {
 }
 
 // Call the function when the page loads
-window.onload = displayRandomPhrase;
+window.onload = qotd;
