@@ -17,8 +17,9 @@ body {
 }
 
 .card .internal {
-  margin: 25%;
-}
+    padding: 70px 0;
+    text-align: center;
+  }
 
 .card .internal img {
   border-radius: 5px;
