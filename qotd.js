@@ -18,7 +18,7 @@ var quotes = [
 
 // Function to display a random phrase
 function qotd() {
-    var randomIndex = Math.floor(Math.random() * phrases.length);
+    var randomIndex = Math.floor(Math.random() * quotes.length);
     var randomQuote = quotes[randomIndex];
     document.getElementById("quote").textContent = randomQuote;
 }
