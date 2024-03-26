@@ -17,10 +17,25 @@ body {
 }
 
 .card .internal {
-    padding: 70px 0;
-    text-align: center;
-  }
+  padding: 70px 0;
+  text-align: center;
+}
 
-.card .internal img {
+.card2 {
+  background-color: burlywood;
+  border-radius: 5px;
+  border: 0px;
+  width: 50%;
+  height: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+.card2 .internal {
+  padding: 70px 0;
+  text-align: center;
+}
+
+.card2 .internal img {
   border-radius: 5px;
 } 
