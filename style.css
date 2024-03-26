@@ -10,9 +10,17 @@ body {
   background-color: burlywood;
   border-radius: 5px;
   border: 0px;
-  width: 50vh;
+  width: 50%;
   height: auto;
-  display: block;
   margin-left: auto;
   margin-right: auto;
 }
+
+.card .internal {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card .internal img {
+  border-radius: 5px;
+} 
