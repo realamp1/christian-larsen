@@ -17,6 +17,7 @@ body {
 }
 
 .card .internal {
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
