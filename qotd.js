@@ -16,6 +16,7 @@ var quotes = [
     "Marvel is a pretty cool ni**er, he'd be good at... slavery - Potato",
     "oh bust - Sundreesoro55",
     "Wiggity wigger, fuck that ni**er - Nathan",
+    "If you can make her giggle, then you can make that ass clap an jiggle - Nathan",
 ];
 
 // Function to display a random phrase
