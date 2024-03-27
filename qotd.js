@@ -14,6 +14,8 @@ var quotes = [
     "Chase a check, never chase a woman - Some rapper idk",
     "Real Ni**as dont need umblellas - Thomas",
     "Marvel is a pretty cool ni**er, he'd be good at... slavery - Potato",
+    "oh bust - Sundreesoro55",
+    "Wiggity wigger, fuck that ni**er - Nathan",
 ];
 
 // Function to display a random phrase
