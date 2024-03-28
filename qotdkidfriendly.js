@@ -17,5 +17,3 @@ function qotd() {
     document.getElementById("quote").textContent = randomQuote;
 }
 
-// Call the function when the page loads
-window.onload = qotd;

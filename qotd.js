@@ -29,5 +29,5 @@ function qotd() {
 }
 
 function kidfriendly() {
-    location.href('quoteskidfriendly.html')
+    window.location.href = 'https://christian-larsen.vercel.app/quotes-kidfriendly.html';
 }
