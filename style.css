@@ -12,11 +12,13 @@ body {
   border: 0px;
   width: 50%;
   height: 25%;
+  top
   margin-left: auto;
   margin-right: auto;
+  padding: 70px 0;
 }
 
 .internal {
-  padding: 70px 0;
+  padding: +70px 0;
   text-align: center;
 }
