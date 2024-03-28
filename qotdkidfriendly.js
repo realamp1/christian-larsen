@@ -17,3 +17,6 @@ function qotd() {
     document.getElementById("quote").textContent = randomQuote;
 }
 
+function notkidfriendly() {
+    window.location.href = '/';
+}
