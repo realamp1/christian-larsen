@@ -17,6 +17,8 @@ var quotes = [
     "oh bust - Sundreesoro55",
     "Wiggity wigger, fuck that ni**er - Nathan",
     "If you can make her giggle, then you can make that ass clap an jiggle - Nathan",
+    "EL NACHO TACO - Miguel",
+    "The smaller the circle the better the people - Ricky",
 ];
 
 // Function to display a random phrase
