@@ -29,5 +29,5 @@ function qotd() {
 }
 
 function kidfriendly() {
-    location.href("/quotes-kidfriendly.html")
+    location.href('quoteskidfriendly.html')
 }
