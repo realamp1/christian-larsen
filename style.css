@@ -7,11 +7,11 @@ body {
   color: #000;
 }
 .card {
-  background-color: #222;
+  background-color: #888;
   border-radius: 5px;
   border: 0px;
   width: 50%;
-  height: 25%;
+  height: auto +70px;
   margin-left: auto;
   margin-right: auto;
   padding: 70px 0;
@@ -24,5 +24,5 @@ body {
 button {
   border-radius: 5px;
   border: 0px;
-  background-color: #444;
+  background-color: #555;
 }
