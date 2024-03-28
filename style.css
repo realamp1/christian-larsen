@@ -16,7 +16,7 @@ body {
   margin-right: auto;
 }
 
-.card .internal {
-  margin-top: 40%;
+.internal {
+  padding: 70px 0;
   text-align: center;
 }
