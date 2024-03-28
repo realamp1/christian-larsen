@@ -12,11 +12,11 @@ body {
   border: 0px;
   width: 50%;
   height: 25%;
-  top: auto;
   margin-left: auto;
   margin-right: auto;
 }
 
 .card .internal {
+  top: 40%;
   text-align: center;
 }
