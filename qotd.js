@@ -19,6 +19,10 @@ var quotes = [
     "If you can make her giggle, then you can make that ass clap an jiggle - Nathan",
     "EL NACHO TACO - Miguel",
     "The smaller the circle the better the people - Ricky",
+    "I just want my nuggets and R6. Thats all a simple man needs in life - Nerd55",
+    "My throat hurts bc I been suckin too much dick - Kairos55",
+    "Im sorry my ass is too big - Dani",
+    "Hey were both wearing pants- Micah, Not for long - Nutter",
 ];
 
 // Function to display a random phrase

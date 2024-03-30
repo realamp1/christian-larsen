@@ -8,6 +8,7 @@ var quotes = [
     "Chase a check, never chase a woman - Some rapper idk",
     "EL NACHO TACO - Miguel",
     "The smaller the circle the better the people - Ricky",
+    "I just want my nuggets and R6. Thats all a simple man needs in life - Nerd55",
 ];
 
 // Function to display a random phrase
