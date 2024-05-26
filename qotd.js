@@ -23,6 +23,15 @@ var quotes = [
     "My throat hurts bc I been suckin too much dick - Kairos55",
     "Im sorry my ass is too big - Dani",
     "Hey were both wearing pants- Micah, Not for long - Nutter",
+    "just becuase you live next to black people doesnt mean your in the hood - Sundreesoro55",
+    "what happens if you put an acog on your penis, do you get better range? - Apricity55",
+    "Tristan I am going to suck you dry - Nick, It wouldn't be the first time - Tristan",
+    "youre making my pussy wet - Antonio",
+    "Yo momma like my ball hair too - coach Coleman",
+    "The butt sauce squirted all over my mouth - Micah",
+    "I put my balls in a ponytail every morning - Aidan",
+    "I've never felt my tities this hard before -Aidan",
+
 ];
 
 // Function to display a random phrase
@@ -30,8 +39,4 @@ function qotd() {
     var randomIndex = Math.floor(Math.random() * quotes.length);
     var randomQuote = quotes[randomIndex];
     document.getElementById("quote").textContent = randomQuote;
-}
-
-function kidfriendly() {
-    window.location.href = 'quotes-kidfriendly.html';
 }
