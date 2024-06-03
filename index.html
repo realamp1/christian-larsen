@@ -1,27 +1,52 @@
-<html>
-    <head>
-        <title>QOTD</title>
-        <link rel="stylesheet" href="style.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
-    </head>
-    <body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christian Larsen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<script src="index.js"></script>
+<body>
+    <div class="card-container">
         <div class="card">
-            <div class="internal">
-                <h2>Christian Larsen</h2>
-                <p>Web Developer and Software Engineer</p>
+            <div class="content">
+                <img width="200px" height="200px" src="#">
+                <div class="text-container">
+                    <h2>Christian Larsen (Karios)</h2>
+                    <p>Software Engineer, Web Developer, 
+                    Video Editor, Photographer</p>      
+                </div>
             </div>
         </div>
-        <br>
         <div class="card">
-            <div class="internal">
-                <h2>Quote of the Day</h2>
-                <p id="quote">click the button to see a quote</p>
-                <button onclick="qotd()">Change Quote</button>
-                <p>DO NOT GO AFTER ANYONE IN THESE QUOTES</p>
+            <div class="content">
+                <div class="text-container">
+                    <button onclick="tracker()"><h2>R6 Tracker</h2></button>      
+                </div>
             </div>
         </div>
-        <script src="qotd.js"></script>
-    </body>
+        <div class="card">
+            <div class="content">
+                <div class="text-container">
+                    <button onclick="photography()"><h2>Photography Blog</h2></button>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="content">
+                <div class="text-container">
+                    <button onclick="editing()"><h2>Editing Suite</h2></button>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="content">
+                <div class="text-container">
+                    <button onclick="youtube()"><h2>YouTube Channel</h2></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
 </html>
